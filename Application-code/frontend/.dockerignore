@@ -1,0 +1,28 @@
+# Ignore node_modules
+node_modules
+node_modules/
+
+# Ignore logs
+logs
+*.log
+npm-debug.log*
+build
+dist
+
+# Ignore .env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore Git files
+.git
+.gitignore
+
+# Ignore Docker files
+Dockerfile
+.dockerignore
+
+# Ignore editor directories and files
+.vscode
